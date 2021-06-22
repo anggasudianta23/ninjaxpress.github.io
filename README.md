@@ -1,2 +1,0 @@
-# ninjaxpress.github.io
-ninjaxpresswebsite
